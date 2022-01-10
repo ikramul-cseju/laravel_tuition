@@ -1,0 +1,14 @@
+1.database name will be start with Capital letter & will be as like as our project.
+2. All the table name will be lowercase & plural form
+3. Model name will be same as like as table name(but singular & starts with Uppercase)
+
+
+
+
+
+for save data in database
+
+i. make html file
+ii. make controller & model
+iii.make rout
+iv. save data in table
